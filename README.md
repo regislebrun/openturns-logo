@@ -1,0 +1,2 @@
+# openturns-logo
+OpenTURNS Logo
